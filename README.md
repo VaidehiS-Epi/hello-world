@@ -1,4 +1,4 @@
 # hello-world
-My first lesson on creating a repository 
-Hello all, 
-I ahve no idea what I am doing and why I am complicating my life by learnign this new tool
+This is my first lesson on creating a repository 
+ 
+I have no idea what I am doing and why I am complicating my life by learning this new tool
